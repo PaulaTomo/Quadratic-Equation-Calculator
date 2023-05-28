@@ -1,0 +1,3 @@
+[submodule "ui-react"]
+    path = ui-react
+    url = https://github.com/PaulaTomo/calculator-quadratic-equation-interface.git
